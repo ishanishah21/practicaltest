@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_internet">No Internet Connection</string>
+    <string name="access_args">selectedUsers</string>
+    <string name="error_valiadtion">Please select at-least one user</string>
+</resources>
